@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "teste imprimir",
+      "budget": "0",
+      "category": {
+        "id": "1",
+        "name": "Outros"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 35
+    },
+    {
+      "name": "teste",
+      "budget": "0",
+      "category": {
+        "id": "1",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 36
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 1,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 1,
+      "name": "Design"
+    },
+    {
+      "id": 1,
+      "name": "Planejamento"
+    },
+    {
+      "id": 1,
+      "name": "Administrativo"
+    },
+    {
+      "id": 1,
+      "name": "Outros"
+    }
+  ]
+}

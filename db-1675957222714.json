@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "jjjjjjjjjjjjjjjjjjjjjj",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "g",
+      "budget": "6",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infraestrutura"
+    },
+    {
+      "id": 1,
+      "name": "desenvolvimento"
+    },
+    {
+      "id": 1,
+      "name": "design"
+    },
+    {
+      "id": 1,
+      "name": "planejamento"
+    },
+    {
+      "id": 1,
+      "name": "administrativo"
+    }
+  ]
+}
