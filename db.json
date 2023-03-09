@@ -1,26 +1,37 @@
 {
   "projects": [
     {
-      "name": "teste imprimir",
-      "budget": "0",
+      "name": "projeto 2 edição",
+      "budget": "1100",
       "category": {
-        "id": "1",
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "testando com diego",
+      "budget": "8000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "viagem",
+      "budget": "1000",
+      "category": {
+        "id": "6",
         "name": "Outros"
       },
       "cost": 0,
       "services": [],
-      "id": 35
-    },
-    {
-      "name": "teste",
-      "budget": "0",
-      "category": {
-        "id": "1",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 36
+      "id": 4
     }
   ],
   "categories": [
@@ -29,23 +40,23 @@
       "name": "Infraestrutura"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Desenvolvimento"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Design"
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "Planejamento"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "Administrativo"
     },
     {
-      "id": 1,
+      "id": 6,
       "name": "Outros"
     }
   ]

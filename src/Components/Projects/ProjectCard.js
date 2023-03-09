@@ -22,7 +22,7 @@ export function ProjectCard ({id, name, budget, category, handleRemove}) {
            </p>
            <div className={styles.project_card_action}>
             
-                <Link to="/">
+                <Link to={`/project/${id}`}>
                     <BsPencil /> Editar 
                 </Link>
             <button onClick={remove}>

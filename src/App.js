@@ -7,6 +7,7 @@ import { Contanier } from './Components/Layout/Contanier';
 import { Navbar } from './Components/Layout/Navbar';
 import { Footer } from './Components/Layout/Footer';
 import { Projects } from './Components/Pages/Projects';
+import { Project } from './Components/Pages/Project';
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       <Route  path='/Projects' element={<Projects/>}/>
       <Route  path='/NewProject' element={<NewProject/>}/>
       <Route  path='/Company' element={<Company/>}/>
+      <Route path='/Project/:id' element={<Project/>}/>
      </Routes> 
      </Contanier>
       <Footer/>
